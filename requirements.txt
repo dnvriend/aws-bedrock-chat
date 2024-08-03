@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-core==0.2.12
+langchain-community
+langchain-aws
+langchain-experimental
+mysql-connector-python
+pandas
+tabulate
